@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ray-cod" alt="ray-cod" /></a> </p>
 
-- 🔭 I’m currently working on [weather_app](https://github.com/ray-cod/weather_app)
+- 🔭 I’m currently working on [RayBank](https://github.com/ray-cod/ray_banking)
 
 - 🌱 I’m currently learning **Kubernetes**
 
