@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raimi Dikamona Lassissi</h1>
-<h3 align="center">A passionate software engineering student at WeThinkCode_</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-cod&label=Profile%20views&color=0e75b6&style=flat" alt="ray-cod" /> </p>
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raimi-dikamona-se/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raimi-dikamona-lassissi-se/" height="30" width="40" /></a>
-<a href="https://raimi-dikamona.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://raimi-dikamona.com/" target="blank"><i class="fi fi-sr-site-alt" style="color: blue;"></i> alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
