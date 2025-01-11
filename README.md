@@ -21,11 +21,6 @@
   <a href="https://www.linkedin.com/in/raimi-dikamona-se/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  
-  <!-- Portfolio link -->
-  <a href="https://raimi-dikamona.com/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_linked_in_logo_2023.png" alt="Raimi Dikamona Portfolio" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
