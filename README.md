@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RayBank](https://github.com/ray-cod/ray_banking)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👯 I’m looking to collaborate on [Automated_Tasks](https://github.com/ThaboChauke/Automated_Tasks)
 
