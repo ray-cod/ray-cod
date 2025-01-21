@@ -29,7 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ray-cod&show_icons=true&locale=en&layout=compact" alt="ray-cod" /></p>
 
 <p>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ray-cod&theme=default" alt="ray-cod Profile Summary" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ray-cod&theme=minimal" alt="ray-cod Activity Graph" />
 </p>
+
 
 
