@@ -28,5 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ray-cod&show_icons=true&locale=en&layout=compact" alt="ray-cod" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ray-cod&show_icons=true&locale=en" alt="ray-cod" /></p>
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ray-cod&theme=default" alt="ray-cod Profile Summary" />
+</p>
+
 
