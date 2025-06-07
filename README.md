@@ -21,6 +21,11 @@
   <a href="https://www.linkedin.com/in/raimi-dikamona-se/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
+
+  <!-- Instagram link -->
+  <a href="https://www.instagram.com/raimidikamona?igsh=MTVqbzBhNHdvODRpMQ== " target="_blank" style="margin-left:10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
