@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ray-cod" alt="ray-cod" /></a> </p>
 
-- 🔭 I’m currently working on [VisorPost](https://github.com/ray-cod/visorpost)
+- 🔭 I’m currently working on [Treazurex](https://github.com/ray-cod/treazurex)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on [Automated_Tasks](https://github.com/ThaboChauke/Automated_Tasks)
 
