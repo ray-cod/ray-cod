@@ -16,15 +16,15 @@
 - 📫 How to reach me **rdikamona9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn link -->
-  <a href="https://www.linkedin.com/in/raimi-dikamona-se/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+<p>
+  <a href="https://linkedin.com/in/raimi-dikamona-se">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-raimi-blue?logo=linkedin" />
   </a>
-
-  <!-- Instagram link -->
-  <a href="https://www.instagram.com/raimi.dikamona/" target="_blank" style="margin-left:10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
+  <a href="https://raimi-dikamona.com">
+    <img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?logo=google-chrome" />
+  </a>
+  <a href="mailto:rdikamona9@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-rdikamona9@gmail.com-blue?logo=gmail" />
   </a>
 </p>
 
