@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ray-cod" alt="ray-cod" /></a> </p>
 
-- 🔭 I’m currently working on [Treazurex](https://github.com/ray-cod/treazurex)
+- 🔭 I’m currently working on [JBwizer](https://github.com/JBwizer)
 
 - 🌱 I’m currently learning **Cloud Computing**
 
