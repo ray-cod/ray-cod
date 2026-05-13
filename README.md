@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raimi Dikamona Lassissi</h1>
-<h3 align="center">Software Developer | Cloud Computing Enthusiast</h3>
+<h3 align="center">Software Engineer | Java & Cloud-focused Developer | AI Training Facilitator</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/raimi-dikamona-se">
@@ -8,7 +8,7 @@
   <a href="https://raimi-dikamona.com">
     <img src="https://img.shields.io/badge/Portfolio-website-blue?logo=google-chrome" />
   </a>
-  <a href="mailto:rdikamona9@gmail.com">
+  <a href="mailto:raimi.dikamona@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-blue?logo=gmail" />
   </a>
 </p>
