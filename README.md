@@ -35,8 +35,8 @@
 
 ### 📌 Featured Projects
 
-- [JBwizer](https://github.com/JBwizer) – Building tools for content and automation  
-- [Automated Tasks](https://github.com/ThaboChauke/Automated_Tasks) – Task automation project  
+- [JBwizer](https://github.com/JBwizer) –  Bridging the gap between education and employment through a signal-driven approach.
+- [Automated Tasks](https://github.com/ThaboChauke/Automated_Tasks) – Task automation project.
 
 ---
 
