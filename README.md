@@ -35,7 +35,7 @@
 
 ### 📌 Featured Projects
 
-- [JBwizer](https://github.com/JBwizer) –  Bridging the gap between education and employment through a signal-driven approach.
+- [JBwizer](https://github.com/JBwizer) –   Bridging the hiring trust divide through an evidence-based approach.
 - [Automated Tasks](https://github.com/ThaboChauke/Automated_Tasks) – Task automation project.
 
 ---
